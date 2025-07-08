@@ -1,5 +1,6 @@
 Praca nad zadaniem trwała około 4 godziny, najwięcej czasu poświęciłem na zrozumienie polecenia i jak funkcjonuje to Api.
 
+Należy pamietać żeby przykładowo w Postmanie dać w authorization Basic auth i podać swoje dane z .env.
 ## Uruchamianie w Dockerze
 
 1. Utwórz plik `.env` na podstawie `.env.example`.
