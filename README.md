@@ -1,0 +1,1 @@
+Praca nad zadaniem trwała około 4 godziny, najwięcej czasu poświęciłem na zrozumienie polecenia i jak funkcjonuje to Api.
